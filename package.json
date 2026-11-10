@@ -1,0 +1,14 @@
+{
+  "name": "pw2-etapa2-restaurante-bianca",
+  "version": "1.0.0",
+  "description": "API REST Restaurante com Express 5 e arrays em memória",
+  "type": "module",
+  "main": "index.js",
+  "author": "Natalia Bianca",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
